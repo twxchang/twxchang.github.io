@@ -1,0 +1,49 @@
+Wed Dec 04 08:58:37 CST 2019 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Wed Dec 04 08:58:37 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016e-ce6a-827a-000000253b03 
+on database directory C:\Users\cathe\OneDrive\文件\myjavaDB\sample with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6659c656 
+Loaded from file:/C:/Users/cathe/Downloads/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.4+10-LTS
+user.dir=C:\Users\cathe\Downloads\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\cathe\OneDrive\文件\myjavaDB
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Dec 04 13:44:16 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 45b300a8-016e-ce6a-827a-000000253b03 
+on database directory C:\Users\cathe\OneDrive\文件\myjavaDB\books with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6659c656 
+Loaded from file:/C:/Users/cathe/Downloads/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.4+10-LTS
+user.dir=C:\Users\cathe\Downloads\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\cathe\OneDrive\文件\myjavaDB
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Dec 04 13:44:17 CST 2019:
+Shutting down instance 45b300a8-016e-ce6a-827a-000000253b03 on database directory C:\Users\cathe\OneDrive\文件\myjavaDB\books with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6659c656 
+Wed Dec 04 13:44:17 CST 2019 Thread[DRDAConnThread_3,5,main] (DATABASE = books), (DRDAID = {4}), Database 'books' shutdown.
+----------------------------------------------------------------
+Wed Dec 04 13:47:19 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 34b10149-016e-ce6a-827a-000000253b03 
+on database directory C:\Users\cathe\OneDrive\文件\myjavaDB\books with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6659c656 
+Loaded from file:/C:/Users/cathe/Downloads/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.4+10-LTS
+user.dir=C:\Users\cathe\Downloads\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\cathe\OneDrive\文件\myjavaDB
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Dec 05 00:21:47 CST 2019: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Dec 05 00:21:48 CST 2019:
+Shutting down instance 34b10149-016e-ce6a-827a-000000253b03 on database directory C:\Users\cathe\OneDrive\文件\myjavaDB\books with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6659c656 
