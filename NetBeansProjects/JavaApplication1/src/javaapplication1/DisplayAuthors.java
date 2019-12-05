@@ -1,4 +1,4 @@
-// Fig. 24.23: DisplayAuthors.java
+
 // Displaying the contents of the authors table.
 import java.sql.Connection;
 import java.sql.Statement;

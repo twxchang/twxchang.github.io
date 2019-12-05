@@ -1,5 +1,4 @@
-// Fig. 24.29: JdbcRowSetTest.java
-// Displaying the contents of the authors table using JdbcRowSet.
+
 import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
 import javax.sql.rowset.JdbcRowSet;  
